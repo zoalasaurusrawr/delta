@@ -17,6 +17,6 @@ Using terminal:
 
 # Usage
 
-delta-cli -t <scantype> (baseline, snapshot)
+`delta-cli -t <scantype> (baseline, snapshot)`
 
 - By default, all scans are stored at %AppData%\.delta-cli
