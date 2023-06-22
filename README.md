@@ -19,4 +19,9 @@ Using terminal:
 
 `delta-cli -t <scantype> (baseline, snapshot)`
 
+1. Initially, start with a baseline scan to capture the current state of the registry.
+2. After you suspect changes to the registry, run with scan type snapshot to capture changes and generate a diff report.
+
+**Notes**
+
 - By default, all scans are stored at %AppData%\.delta-cli
