@@ -24,4 +24,4 @@ Using terminal:
 
 **Notes**
 
-- By default, all scans are stored at %AppData%\\.delta-cli
+- By default, all scans are stored at `%AppData%\\.delta-cli`
